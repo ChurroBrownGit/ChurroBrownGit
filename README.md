@@ -1,1 +1,4 @@
-# About
+Hey, I’m ChurroBrown - This is my personal account
+I’m currently learning programming in python
+Just gonna use this to put personal projects/code here
+Fun fact: programming in python is hard
